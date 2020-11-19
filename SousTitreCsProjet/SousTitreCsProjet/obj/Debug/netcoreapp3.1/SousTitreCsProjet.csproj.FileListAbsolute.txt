@@ -1,0 +1,13 @@
+C:\Users\Okan\Desktop\SousTitreCsProjet\SousTitreCsProjet\obj\Debug\netcoreapp3.1\SousTitreCsProjet.csprojAssemblyReference.cache
+C:\Users\Okan\Desktop\SousTitreCsProjet\SousTitreCsProjet\obj\Debug\netcoreapp3.1\SousTitreCsProjet.AssemblyInfoInputs.cache
+C:\Users\Okan\Desktop\SousTitreCsProjet\SousTitreCsProjet\obj\Debug\netcoreapp3.1\SousTitreCsProjet.AssemblyInfo.cs
+C:\Users\Okan\Desktop\SousTitreCsProjet\SousTitreCsProjet\obj\Debug\netcoreapp3.1\SousTitreCsProjet.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\SousTitreCsProjet\SousTitreCsProjet\bin\Debug\netcoreapp3.1\SousTitreCsProjet.exe
+C:\Users\Okan\Desktop\SousTitreCsProjet\SousTitreCsProjet\bin\Debug\netcoreapp3.1\SousTitreCsProjet.deps.json
+C:\Users\Okan\Desktop\SousTitreCsProjet\SousTitreCsProjet\bin\Debug\netcoreapp3.1\SousTitreCsProjet.runtimeconfig.json
+C:\Users\Okan\Desktop\SousTitreCsProjet\SousTitreCsProjet\bin\Debug\netcoreapp3.1\SousTitreCsProjet.runtimeconfig.dev.json
+C:\Users\Okan\Desktop\SousTitreCsProjet\SousTitreCsProjet\bin\Debug\netcoreapp3.1\SousTitreCsProjet.dll
+C:\Users\Okan\Desktop\SousTitreCsProjet\SousTitreCsProjet\bin\Debug\netcoreapp3.1\SousTitreCsProjet.pdb
+C:\Users\Okan\Desktop\SousTitreCsProjet\SousTitreCsProjet\obj\Debug\netcoreapp3.1\SousTitreCsProjet.dll
+C:\Users\Okan\Desktop\SousTitreCsProjet\SousTitreCsProjet\obj\Debug\netcoreapp3.1\SousTitreCsProjet.pdb
+C:\Users\Okan\Desktop\SousTitreCsProjet\SousTitreCsProjet\obj\Debug\netcoreapp3.1\SousTitreCsProjet.genruntimeconfig.cache
